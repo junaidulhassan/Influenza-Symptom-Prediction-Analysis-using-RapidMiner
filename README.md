@@ -1,5 +1,5 @@
 # Influenza-Symptom-Prediction-Analysis-using-RapidMiner
-### Detailed Project Documentation file is Uploaded in the Repository in PDF.
+### Detailed Project Documentation file is Uploaded in the Repository in PDF
 ## Objective:
 Utilizing a comprehensive German flu dataset spanning two years, this project aims to scrutinize influenza symptoms and evaluate its transmission pace across the nation. By capitalizing on the data mining prowess of RapidMiner, we seek to 
 
